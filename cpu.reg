@@ -1,13 +1,13 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\0]
-"ProcessorNameString"="Intel(R) Core(TM) i7-9700K CPU @"
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\1]
-"ProcessorNameString"="Intel(R) Core(TM) i7-9700K CPU @"
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\2]
-"ProcessorNameString"="Intel(R) Core(TM) i7-9700K CPU @"
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\3]
-"ProcessorNameString"="Intel(R) Core(TM) i7-9700K CPU @"
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
