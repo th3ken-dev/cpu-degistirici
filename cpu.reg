@@ -11,3 +11,42 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\3]
 "ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\4]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\5]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\6]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\7]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\8]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\9]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\10]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\11]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\12]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\13]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\14]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\15]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor\16]
+"ProcessorNameString"="Intel(R) Core(TM) i9-11900K CPU @"
